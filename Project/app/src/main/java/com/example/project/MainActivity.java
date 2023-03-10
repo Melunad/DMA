@@ -1,5 +1,5 @@
 package com.example.project;
-
+//Проверка тегов
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
